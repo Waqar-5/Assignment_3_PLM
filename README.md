@@ -33,8 +33,13 @@ streamlit-lottie - For Lottie animations​
 
 
 📁 Project Structure
+
 personal-library-manager/
+
 ├── app.py                 # Main application file
+
 ├── library.json           # JSON file storing the library data
+
 ├── requirements.txt       # Python dependencies
+
 └── README.md              # Project documentation
