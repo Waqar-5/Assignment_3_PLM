@@ -1,7 +1,5 @@
 # Assignment_3_PLM
 
-# Assignment_3_PLM
-
 📚 Personal Library Manager
 A sleek, interactive Streamlit web application designed to help you manage your personal book collection with ease. Track your reading progress, explore insightful statistics, and enjoy a visually engaging interface—all in one place.​
 
